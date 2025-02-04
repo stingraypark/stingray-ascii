@@ -81,3 +81,4 @@ This project is licensed under the MIT License.
 
 Developed by **Stingray Park**.
 
+The official PyPi page of this library follows: [PyPi](https://pypi.org/project/stingray-ascii/).
