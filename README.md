@@ -81,5 +81,3 @@ This project is licensed under the MIT License.
 
 Developed by **Stingray Park**.
 
-For more details, visit the [GitHub Repository](https://github.com/stingraypark/stingray-ascii).
-
